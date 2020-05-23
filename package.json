@@ -1,0 +1,23 @@
+{
+  "name": "@mete-work/joi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@hapi/bourne": "^2.0.0",
+    "@hapi/joi": "^16.1.8"
+  },
+  "author": "godotdotdot",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mete-work/Joi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mete-work/Joi/issues"
+  },
+  "homepage": "https://github.com/mete-work/Joi#readme",
+  "license": "MIT"
+}
